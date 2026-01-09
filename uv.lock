@@ -3489,7 +3489,7 @@ wheels = [
 
 [[package]]
 name = "neural-compressor"
-version = "3.6"
+version = "3.7"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "deprecated" },
@@ -3506,9 +3506,9 @@ dependencies = [
     { name = "schema" },
     { name = "scikit-learn" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/e7/aa/b47868b2301c8d81066d472aea9ea7df950914dbc8807ac8aecdf3cc4b30/neural_compressor-3.6.tar.gz", hash = "sha256:48c521f9e2f22f53d7317ab4477bc6e438aa34d126d11bdc468b6457778bed55", size = 1314197, upload-time = "2025-10-24T02:34:46.613Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/89/27/9e01bfcbe4efead6ee3131bd819b5528eb1769476a9b76e336ec88f90fea/neural_compressor-3.7.tar.gz", hash = "sha256:f5651756673ee42b7c6e182ec74624ebbd3c18d06058a829aac1ae1c9adf248f", size = 1300636, upload-time = "2025-12-25T02:20:50.324Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/84/19/1d39ea9c70710384f1c37a48e3802288713fe816abc922b7527cec8df1ce/neural_compressor-3.6-py3-none-any.whl", hash = "sha256:bae9e5da21ea7b8d52bb4fceeb68e5cd3d8a8ee9767b0329303009d6c4561011", size = 1837189, upload-time = "2025-10-24T02:34:45.1Z" },
+    { url = "https://files.pythonhosted.org/packages/14/a5/2b568e8dadaadff8decf01fc9b55c41addc986ab507fc4332fa5cbed64d9/neural_compressor-3.7-py3-none-any.whl", hash = "sha256:e149864c278a3ee28227fd9726e98949a77151cd896d09e9e3c75ab311e1b33f", size = 1821848, upload-time = "2025-12-25T02:20:48.727Z" },
 ]
 
 [[package]]
